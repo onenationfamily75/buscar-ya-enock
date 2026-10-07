@@ -6,40 +6,4 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://buscar-bookings.com/routes/nairobi-to-mombasa</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://buscar-bookings.com/routes/mombasa-to-nairobi</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://buscar-bookings.com/routes/nairobi-to-kampala</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://buscar-bookings.com/routes/nairobi-to-malindi</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://buscar-bookings.com/routes/nairobi-to-kisumu</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://buscar-bookings.com/routes/nairobi-to-lamu</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-</urlset>
+ 
