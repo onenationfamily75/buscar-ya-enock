@@ -1,4 +1,15 @@
+# robots.txt for https://buscar-bookings.com
+# BUSCAR — EAGLE ABOVE THE REST | Buscar Online Booking
+
 User-agent: *
+Allow: /
+Disallow: /passenger-details
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
 Allow: /
 
 Sitemap: https://buscar-bookings.com/sitemap.xml
+Host: https://buscar-bookings.com
